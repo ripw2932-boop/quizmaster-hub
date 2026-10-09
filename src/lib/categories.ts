@@ -1,0 +1,17 @@
+export const categories = [
+  { id:'general',name:'معلومات عامة',tag:'شوية من كل شيء' },
+  { id:'jordan',name:'معلومات عن الأردن',tag:'قدّيش بتعرف بلدك؟' },
+  { id:'jordan-history',name:'تاريخ الأردن',tag:'حكاية وطن' },
+  { id:'jordan-football',name:'كرة القدم الأردنية',tag:'تحدّي النشامى' },
+  { id:'football',name:'كرة القدم العالمية',tag:'للّي بفهم بالكورة' },
+  { id:'flags',name:'أعلام الدول',tag:'العالم بألوانه' },
+  { id:'animals',name:'الحيوانات',tag:'عالم البرّية' },
+  { id:'capitals',name:'دول وعواصم',tag:'رحلة حول العالم' },
+  { id:'history',name:'التاريخ والحضارات',tag:'عبر الزمن' },
+  { id:'science',name:'العلوم',tag:'فضولك هو قوّتك' },
+  { id:'acting',name:'تبكين',tag:'تحدّي التمثيل الصامت' },
+  { id:'movies',name:'الأفلام',tag:'أكشن… سؤال!' },
+  { id:'riddles',name:'ألغاز وتفكير',tag:'شغّل مخّك' },
+  { id:'geography',name:'الجغرافيا',tag:'وين على الخريطة؟' },
+  { id:'drawing',name:'تحدي الرسم',tag:'ارسمها وخليهم يحزروا' },
+];
