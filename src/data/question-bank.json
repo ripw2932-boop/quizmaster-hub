@@ -1,0 +1,1745 @@
+[
+ {
+  "id": "general-001",
+  "category": "general",
+  "points": 200,
+  "question": "ما هي عاصمة فرنسا؟",
+  "answer": "باريس"
+ },
+ {
+  "id": "general-002",
+  "category": "general",
+  "points": 200,
+  "question": "ما هو أكبر محيط في العالم؟",
+  "answer": "المحيط الهادئ"
+ },
+ {
+  "id": "general-003",
+  "category": "general",
+  "points": 200,
+  "question": "كم عدد قارات العالم؟",
+  "answer": "سبع قارات"
+ },
+ {
+  "id": "general-004",
+  "category": "general",
+  "points": 200,
+  "question": "ما هو أطول نهر في العالم؟",
+  "answer": "نهر النيل"
+ },
+ {
+  "id": "general-005",
+  "category": "general",
+  "points": 200,
+  "question": "ما هي أصغر دولة في العالم من حيث المساحة؟",
+  "answer": "مدينة الفاتيكان"
+ },
+ {
+  "id": "general-006",
+  "category": "general",
+  "points": 200,
+  "question": "ما هو الكوكب الأقرب إلى الشمس؟",
+  "answer": "عطارد"
+ },
+ {
+  "id": "general-007",
+  "category": "general",
+  "points": 200,
+  "question": "ما هي عاصمة اليابان؟",
+  "answer": "طوكيو"
+ },
+ {
+  "id": "general-008",
+  "category": "general",
+  "points": 200,
+  "question": "كم عدد عظام جسم الإنسان البالغ؟",
+  "answer": "206 عظمة"
+ },
+ {
+  "id": "general-009",
+  "category": "general",
+  "points": 200,
+  "question": "ما هو الغاز الذي يحتاجه الإنسان للتنفس؟",
+  "answer": "الأكسجين"
+ },
+ {
+  "id": "general-010",
+  "category": "general",
+  "points": 200,
+  "question": "ما هي أكبر صحراء حارة في العالم؟",
+  "answer": "الصحراء الكبرى"
+ },
+ {
+  "id": "general-011",
+  "category": "general",
+  "points": 200,
+  "question": "من مؤلف رواية 'الحرب والسلام'؟",
+  "answer": "ليو تولستوي"
+ },
+ {
+  "id": "general-012",
+  "category": "general",
+  "points": 200,
+  "question": "ما هي عملة اليابان؟",
+  "answer": "الين"
+ },
+ {
+  "id": "general-013",
+  "category": "general",
+  "points": 200,
+  "question": "ما هو أعلى جبل في العالم؟",
+  "answer": "جبل إيفرست"
+ },
+ {
+  "id": "general-014",
+  "category": "general",
+  "points": 200,
+  "question": "ما هي عاصمة ألمانيا؟",
+  "answer": "برلين"
+ },
+ {
+  "id": "general-015",
+  "category": "general",
+  "points": 200,
+  "question": "كم عدد أيام السنة الكبيسة؟",
+  "answer": "366 يومًا"
+ },
+ {
+  "id": "general-016",
+  "category": "general",
+  "points": 200,
+  "question": "ما هو العنصر الكيميائي الذي رمزه O؟",
+  "answer": "الأكسجين"
+ },
+ {
+  "id": "general-017",
+  "category": "general",
+  "points": 200,
+  "question": "ما هي اللغة الرسمية في البرازيل؟",
+  "answer": "البرتغالية"
+ },
+ {
+  "id": "general-018",
+  "category": "general",
+  "points": 200,
+  "question": "من اكتشف الجاذبية الأرضية؟",
+  "answer": "إسحاق نيوتن"
+ },
+ {
+  "id": "general-019",
+  "category": "general",
+  "points": 200,
+  "question": "ما هي عاصمة إيطاليا؟",
+  "answer": "روما"
+ },
+ {
+  "id": "general-020",
+  "category": "general",
+  "points": 200,
+  "question": "ما هو أكبر كوكب في المجموعة الشمسية؟",
+  "answer": "المشتري"
+ },
+ {
+  "id": "general-021",
+  "category": "general",
+  "points": 200,
+  "question": "ما اسم أصغر عظمة في جسم الإنسان؟",
+  "answer": "عظمة الركاب في الأذن"
+ },
+ {
+  "id": "general-022",
+  "category": "general",
+  "points": 200,
+  "question": "ما هي عاصمة إسبانيا؟",
+  "answer": "مدريد"
+ },
+ {
+  "id": "general-023",
+  "category": "general",
+  "points": 200,
+  "question": "ما هو الحيوان الأسرع في العالم؟",
+  "answer": "الفهد الصياد"
+ },
+ {
+  "id": "general-024",
+  "category": "general",
+  "points": 200,
+  "question": "كم عدد أسنان الإنسان البالغ؟",
+  "answer": "32 سنًا"
+ },
+ {
+  "id": "general-025",
+  "category": "general",
+  "points": 200,
+  "question": "ما اسم القارة التي تقع فيها مصر؟",
+  "answer": "أفريقيا"
+ },
+ {
+  "id": "general-026",
+  "category": "general",
+  "points": 200,
+  "question": "ما هي عاصمة روسيا؟",
+  "answer": "موسكو"
+ },
+ {
+  "id": "general-027",
+  "category": "general",
+  "points": 200,
+  "question": "ما هو أكبر بحر في العالم؟",
+  "answer": "بحر الفلبين"
+ },
+ {
+  "id": "general-028",
+  "category": "general",
+  "points": 200,
+  "question": "من هو مخترع المصباح الكهربائي؟",
+  "answer": "توماس إديسون"
+ },
+ {
+  "id": "general-029",
+  "category": "general",
+  "points": 200,
+  "question": "ما هي عاصمة كندا؟",
+  "answer": "أوتاوا"
+ },
+ {
+  "id": "general-030",
+  "category": "general",
+  "points": 200,
+  "question": "ما اسم المحيط الذي يحيط بالقطب الجنوبي؟",
+  "answer": "المحيط الجنوبي"
+ },
+ {
+  "id": "general-031",
+  "category": "general",
+  "points": 200,
+  "question": "ما هي أكبر جزيرة في العالم؟",
+  "answer": "جرينلاند"
+ },
+ {
+  "id": "general-032",
+  "category": "general",
+  "points": 200,
+  "question": "ما هو العنصر الأكثر وفرة في الكون؟",
+  "answer": "الهيدروجين"
+ },
+ {
+  "id": "general-033",
+  "category": "general",
+  "points": 200,
+  "question": "من رسم لوحة الموناليزا؟",
+  "answer": "ليوناردو دافنشي"
+ },
+ {
+  "id": "general-034",
+  "category": "general",
+  "points": 200,
+  "question": "ما هي عاصمة الصين؟",
+  "answer": "بكين"
+ },
+ {
+  "id": "general-035",
+  "category": "general",
+  "points": 400,
+  "question": "ما هو أصغر كوكب في المجموعة الشمسية؟",
+  "answer": "عطارد"
+ },
+ {
+  "id": "general-036",
+  "category": "general",
+  "points": 400,
+  "question": "ما هي اللغة الأكثر تحدثًا في العالم كلغة أم؟",
+  "answer": "الصينية الماندرين"
+ },
+ {
+  "id": "general-037",
+  "category": "general",
+  "points": 400,
+  "question": "من كتب مسرحية 'هاملت'؟",
+  "answer": "وليام شكسبير"
+ },
+ {
+  "id": "general-038",
+  "category": "general",
+  "points": 400,
+  "question": "ما هي عاصمة أستراليا؟",
+  "answer": "كانبرا"
+ },
+ {
+  "id": "general-039",
+  "category": "general",
+  "points": 400,
+  "question": "كم عدد قلوب الأخطبوط؟",
+  "answer": "ثلاثة قلوب"
+ },
+ {
+  "id": "general-040",
+  "category": "general",
+  "points": 400,
+  "question": "ما هو أطول سلسلة جبال في العالم؟",
+  "answer": "جبال الأنديز"
+ },
+ {
+  "id": "general-041",
+  "category": "general",
+  "points": 400,
+  "question": "ما هي عاصمة البرازيل؟",
+  "answer": "برازيليا"
+ },
+ {
+  "id": "general-042",
+  "category": "general",
+  "points": 400,
+  "question": "من هو عالم الفيزياء صاحب نظرية النسبية؟",
+  "answer": "ألبرت أينشتاين"
+ },
+ {
+  "id": "general-043",
+  "category": "general",
+  "points": 400,
+  "question": "ما هي أسرع حيوان بري على الأرض؟",
+  "answer": "الفهد"
+ },
+ {
+  "id": "general-044",
+  "category": "general",
+  "points": 400,
+  "question": "ما هو أكبر محيط من حيث العمق؟",
+  "answer": "المحيط الهادئ"
+ },
+ {
+  "id": "general-045",
+  "category": "general",
+  "points": 400,
+  "question": "ما اسم الوحدة النقدية الأوروبية المشتركة؟",
+  "answer": "اليورو"
+ },
+ {
+  "id": "general-046",
+  "category": "general",
+  "points": 400,
+  "question": "ما هي عاصمة الهند؟",
+  "answer": "نيودلهي"
+ },
+ {
+  "id": "general-047",
+  "category": "general",
+  "points": 400,
+  "question": "كم عدد ألوان قوس قزح؟",
+  "answer": "سبعة ألوان"
+ },
+ {
+  "id": "general-048",
+  "category": "general",
+  "points": 400,
+  "question": "ما هو أقدم نوع من الكتابة المعروف؟",
+  "answer": "الكتابة المسمارية"
+ },
+ {
+  "id": "general-049",
+  "category": "general",
+  "points": 400,
+  "question": "ما اسم الكوكب المعروف بالكوكب الأحمر؟",
+  "answer": "المريخ"
+ },
+ {
+  "id": "general-050",
+  "category": "general",
+  "points": 400,
+  "question": "من هو مكتشف قارة أمريكا؟",
+  "answer": "كريستوفر كولومبوس"
+ },
+ {
+  "id": "general-051",
+  "category": "general",
+  "points": 400,
+  "question": "ما هي أعلى شلالات في العالم؟",
+  "answer": "شلالات أنجل في فنزويلا"
+ },
+ {
+  "id": "general-052",
+  "category": "general",
+  "points": 400,
+  "question": "ما هو العضو المسؤول عن ضخ الدم في جسم الإنسان؟",
+  "answer": "القلب"
+ },
+ {
+  "id": "general-053",
+  "category": "general",
+  "points": 400,
+  "question": "ما هي عاصمة المكسيك؟",
+  "answer": "مكسيكو سيتي"
+ },
+ {
+  "id": "general-054",
+  "category": "general",
+  "points": 400,
+  "question": "ما هو أكبر زاحف حي في العالم؟",
+  "answer": "تمساح المياه المالحة"
+ },
+ {
+  "id": "general-055",
+  "category": "general",
+  "points": 400,
+  "question": "من كتب رواية '1984'؟",
+  "answer": "جورج أورويل"
+ },
+ {
+  "id": "general-056",
+  "category": "general",
+  "points": 400,
+  "question": "ما اسم الخط الوهمي الذي يقسم الأرض إلى نصفين شمالي وجنوبي؟",
+  "answer": "خط الاستواء"
+ },
+ {
+  "id": "general-057",
+  "category": "general",
+  "points": 400,
+  "question": "ما هي أكثر اللغات استخدامًا في الإنترنت؟",
+  "answer": "الإنجليزية"
+ },
+ {
+  "id": "general-058",
+  "category": "general",
+  "points": 400,
+  "question": "ما هو أصغر محيط في العالم؟",
+  "answer": "المحيط المتجمد الشمالي"
+ },
+ {
+  "id": "general-059",
+  "category": "general",
+  "points": 400,
+  "question": "من هو مخترع الهاتف؟",
+  "answer": "ألكسندر غراهام بيل"
+ },
+ {
+  "id": "general-060",
+  "category": "general",
+  "points": 400,
+  "question": "ما اسم أكبر دولة في العالم من حيث المساحة؟",
+  "answer": "روسيا"
+ },
+ {
+  "id": "general-061",
+  "category": "general",
+  "points": 400,
+  "question": "ما هي أكبر غابة استوائية في العالم؟",
+  "answer": "غابات الأمازون"
+ },
+ {
+  "id": "general-062",
+  "category": "general",
+  "points": 400,
+  "question": "ما هو الكوكب الذي يشتهر بحلقاته؟",
+  "answer": "زحل"
+ },
+ {
+  "id": "general-063",
+  "category": "general",
+  "points": 400,
+  "question": "من مؤسس شركة مايكروسوفت؟",
+  "answer": "بيل غيتس"
+ },
+ {
+  "id": "general-064",
+  "category": "general",
+  "points": 400,
+  "question": "ما هي عاصمة كوريا الجنوبية؟",
+  "answer": "سيول"
+ },
+ {
+  "id": "general-065",
+  "category": "general",
+  "points": 400,
+  "question": "كم عدد الكواكب في المجموعة الشمسية؟",
+  "answer": "ثمانية كواكب"
+ },
+ {
+  "id": "general-066",
+  "category": "general",
+  "points": 400,
+  "question": "ما هو أعمق خندق في المحيطات؟",
+  "answer": "خندق ماريانا"
+ },
+ {
+  "id": "general-067",
+  "category": "general",
+  "points": 400,
+  "question": "ما اسم النجم الذي تدور حوله الأرض؟",
+  "answer": "الشمس"
+ },
+ {
+  "id": "general-068",
+  "category": "general",
+  "points": 600,
+  "question": "من كتب ملحمة 'الإلياذة'؟",
+  "answer": "هوميروس"
+ },
+ {
+  "id": "general-069",
+  "category": "general",
+  "points": 600,
+  "question": "ما هي عاصمة تركيا؟",
+  "answer": "أنقرة"
+ },
+ {
+  "id": "general-070",
+  "category": "general",
+  "points": 600,
+  "question": "ما هو أكبر ثدييّ في العالم؟",
+  "answer": "الحوت الأزرق"
+ },
+ {
+  "id": "general-071",
+  "category": "general",
+  "points": 600,
+  "question": "ما اسم العملية التي تحول النبات بها الضوء إلى طاقة؟",
+  "answer": "التمثيل الضوئي"
+ },
+ {
+  "id": "general-072",
+  "category": "general",
+  "points": 600,
+  "question": "ما هي عاصمة المملكة المتحدة؟",
+  "answer": "لندن"
+ },
+ {
+  "id": "general-073",
+  "category": "general",
+  "points": 600,
+  "question": "من هو مكتشف البنسلين؟",
+  "answer": "ألكسندر فليمنغ"
+ },
+ {
+  "id": "general-074",
+  "category": "general",
+  "points": 600,
+  "question": "ما اسم أكبر صحراء باردة في العالم؟",
+  "answer": "القارة القطبية الجنوبية"
+ },
+ {
+  "id": "general-075",
+  "category": "general",
+  "points": 600,
+  "question": "ما هي عاصمة البرتغال؟",
+  "answer": "لشبونة"
+ },
+ {
+  "id": "general-076",
+  "category": "general",
+  "points": 600,
+  "question": "كم عدد حروف اللغة العربية؟",
+  "answer": "28 حرفًا"
+ },
+ {
+  "id": "general-077",
+  "category": "general",
+  "points": 600,
+  "question": "من هو مؤلف رواية 'مئة عام من العزلة'؟",
+  "answer": "غابرييل غارسيا ماركيز"
+ },
+ {
+  "id": "general-078",
+  "category": "general",
+  "points": 600,
+  "question": "ما اسم الفيروس المسؤول عن مرض الإيدز؟",
+  "answer": "فيروس نقص المناعة البشرية"
+ },
+ {
+  "id": "general-079",
+  "category": "general",
+  "points": 600,
+  "question": "ما هي أطول سلسلة جبلية تحت الماء؟",
+  "answer": "سلسلة وسط الأطلسي"
+ },
+ {
+  "id": "general-080",
+  "category": "general",
+  "points": 600,
+  "question": "ما اسم العالم الذي وضع الجدول الدوري للعناصر؟",
+  "answer": "ديمتري مندليف"
+ },
+ {
+  "id": "general-081",
+  "category": "general",
+  "points": 600,
+  "question": "ما هي عاصمة هولندا؟",
+  "answer": "أمستردام"
+ },
+ {
+  "id": "general-082",
+  "category": "general",
+  "points": 600,
+  "question": "من هو مؤلف كتاب 'الأمير'؟",
+  "answer": "نيكولو مكيافيلي"
+ },
+ {
+  "id": "general-083",
+  "category": "general",
+  "points": 600,
+  "question": "ما اسم أول قمر صناعي أطلقته البشرية؟",
+  "answer": "سبوتنيك 1"
+ },
+ {
+  "id": "general-084",
+  "category": "general",
+  "points": 600,
+  "question": "ما هي عاصمة السويد؟",
+  "answer": "ستوكهولم"
+ },
+ {
+  "id": "general-085",
+  "category": "general",
+  "points": 600,
+  "question": "ما اسم الغدة التي تنظم نمو الجسم؟",
+  "answer": "الغدة النخامية"
+ },
+ {
+  "id": "general-086",
+  "category": "general",
+  "points": 600,
+  "question": "من هو مكتشف أمريكا الجنوبية ضمن رحلاته؟",
+  "answer": "أميريغو فسبوتشي"
+ },
+ {
+  "id": "general-087",
+  "category": "general",
+  "points": 600,
+  "question": "ما هي عاصمة النرويج؟",
+  "answer": "أوسلو"
+ },
+ {
+  "id": "general-088",
+  "category": "general",
+  "points": 600,
+  "question": "ما اسم الكوكب القزم الذي صُنّف سابقًا كوكبًا تاسعًا؟",
+  "answer": "بلوتو"
+ },
+ {
+  "id": "general-089",
+  "category": "general",
+  "points": 600,
+  "question": "من كتب كتاب 'أصل الأنواع'؟",
+  "answer": "تشارلز داروين"
+ },
+ {
+  "id": "general-090",
+  "category": "general",
+  "points": 600,
+  "question": "ما هي عاصمة فنلندا؟",
+  "answer": "هلسنكي"
+ },
+ {
+  "id": "general-091",
+  "category": "general",
+  "points": 600,
+  "question": "ما اسم أول إنسان وطأ سطح القمر؟",
+  "answer": "نيل أرمسترونغ"
+ },
+ {
+  "id": "general-092",
+  "category": "general",
+  "points": 600,
+  "question": "ما هي أكبر بحيرة عذبة في العالم من حيث المساحة؟",
+  "answer": "بحيرة سوبيريور"
+ },
+ {
+  "id": "general-093",
+  "category": "general",
+  "points": 600,
+  "question": "من هو مكتشف الراديوم والبولونيوم؟",
+  "answer": "ماري كوري"
+ },
+ {
+  "id": "general-094",
+  "category": "general",
+  "points": 600,
+  "question": "ما هي عاصمة الدنمارك؟",
+  "answer": "كوبنهاغن"
+ },
+ {
+  "id": "general-095",
+  "category": "general",
+  "points": 600,
+  "question": "ما اسم الحرب التي استمرت بين 1939 و1945؟",
+  "answer": "الحرب العالمية الثانية"
+ },
+ {
+  "id": "general-096",
+  "category": "general",
+  "points": 600,
+  "question": "ما هي أعلى قمة جبلية في أفريقيا؟",
+  "answer": "جبل كليمنجارو"
+ },
+ {
+  "id": "general-097",
+  "category": "general",
+  "points": 600,
+  "question": "من هو واضع نظرية التطور؟",
+  "answer": "تشارلز داروين"
+ },
+ {
+  "id": "general-098",
+  "category": "general",
+  "points": 600,
+  "question": "ما اسم العملة الرسمية للولايات المتحدة؟",
+  "answer": "الدولار الأمريكي"
+ },
+ {
+  "id": "general-099",
+  "category": "general",
+  "points": 600,
+  "question": "ما هي عاصمة اليونان؟",
+  "answer": "أثينا"
+ },
+ {
+  "id": "general-100",
+  "category": "general",
+  "points": 600,
+  "question": "ما هي عاصمة النمسا؟",
+  "answer": "فيينا"
+ },
+ {
+  "id": "jordan-001",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما هي عاصمة الأردن؟",
+  "answer": "عمّان"
+ },
+ {
+  "id": "jordan-002",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما هي العملة الرسمية في الأردن؟",
+  "answer": "الدينار الأردني"
+ },
+ {
+  "id": "jordan-003",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما هو البحر الذي يطل عليه الأردن من الجنوب؟",
+  "answer": "البحر الأحمر"
+ },
+ {
+  "id": "jordan-004",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما اسم أخفض نقطة على سطح الأرض الواقعة في الأردن؟",
+  "answer": "البحر الميت"
+ },
+ {
+  "id": "jordan-005",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما هي اللغة الرسمية في الأردن؟",
+  "answer": "اللغة العربية"
+ },
+ {
+  "id": "jordan-006",
+  "category": "jordan",
+  "points": 200,
+  "question": "من هو الملك الحالي للأردن؟",
+  "answer": "الملك عبدالله الثاني"
+ },
+ {
+  "id": "jordan-007",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما اسم المدينة الأثرية المنحوتة في الصخر في الأردن؟",
+  "answer": "البتراء"
+ },
+ {
+  "id": "jordan-008",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما هو اسم نهر يمر عبر الأردن ويفصله عن فلسطين؟",
+  "answer": "نهر الأردن"
+ },
+ {
+  "id": "jordan-009",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما اسم الصحراء الواقعة جنوب الأردن والمشهورة بكثبانها الوردية؟",
+  "answer": "وادي رم"
+ },
+ {
+  "id": "jordan-010",
+  "category": "jordan",
+  "points": 200,
+  "question": "كم عدد محافظات الأردن؟",
+  "answer": "12 محافظة"
+ },
+ {
+  "id": "jordan-011",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما هو اليوم الوطني للأردن؟",
+  "answer": "25 أيار/مايو"
+ },
+ {
+  "id": "jordan-012",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما اسم الميناء البحري الوحيد في الأردن؟",
+  "answer": "ميناء العقبة"
+ },
+ {
+  "id": "jordan-013",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما هي أكبر مدينة في الأردن من حيث عدد السكان؟",
+  "answer": "عمّان"
+ },
+ {
+  "id": "jordan-014",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما اسم المطار الدولي الرئيسي في الأردن؟",
+  "answer": "مطار الملكة علياء الدولي"
+ },
+ {
+  "id": "jordan-015",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما هي الديانة الرسمية في الأردن؟",
+  "answer": "الإسلام"
+ },
+ {
+  "id": "jordan-016",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما اسم الجامعة الأردنية الحكومية الأولى؟",
+  "answer": "الجامعة الأردنية"
+ },
+ {
+  "id": "jordan-017",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما اسم الجبل الذي يُعتقد أن النبي موسى دُفن بالقرب منه في الأردن؟",
+  "answer": "جبل نيبو"
+ },
+ {
+  "id": "jordan-018",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما هو الحيوان الرمزي الموجود على شعار المملكة الأردنية؟",
+  "answer": "النسر"
+ },
+ {
+  "id": "jordan-019",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما اسم أكبر محمية طبيعية في الأردن؟",
+  "answer": "محمية ضانا"
+ },
+ {
+  "id": "jordan-020",
+  "category": "jordan",
+  "points": 200,
+  "question": "كم تبلغ مساحة الأردن تقريبًا؟",
+  "answer": "حوالي 89,342 كم مربع"
+ },
+ {
+  "id": "jordan-021",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما اسم الدولة التي تحد الأردن من الشمال؟",
+  "answer": "سوريا"
+ },
+ {
+  "id": "jordan-022",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما اسم الدولة التي تحد الأردن من الشرق؟",
+  "answer": "العراق والسعودية"
+ },
+ {
+  "id": "jordan-023",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما هو نظام الحكم في الأردن؟",
+  "answer": "ملكية دستورية"
+ },
+ {
+  "id": "jordan-024",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما اسم أول ملك للمملكة الأردنية الهاشمية؟",
+  "answer": "الملك عبدالله الأول"
+ },
+ {
+  "id": "jordan-025",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما اسم العملة الأردنية الصغرى؟",
+  "answer": "القرش"
+ },
+ {
+  "id": "jordan-026",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما اسم المدينة الأردنية المشهورة بالمدرجات الرومانية؟",
+  "answer": "جرش"
+ },
+ {
+  "id": "jordan-027",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما هو اسم القصر الملكي الرئيسي في عمّان؟",
+  "answer": "قصر الحسينية"
+ },
+ {
+  "id": "jordan-028",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما اسم النهر الذي يصب في البحر الميت؟",
+  "answer": "نهر الأردن"
+ },
+ {
+  "id": "jordan-029",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما اسم جبل القلعة الموجود في وسط عمّان؟",
+  "answer": "جبل القلعة"
+ },
+ {
+  "id": "jordan-030",
+  "category": "jordan",
+  "points": 200,
+  "question": "كم عدد سكان الأردن تقريبًا؟",
+  "answer": "حوالي 11 مليون نسمة"
+ },
+ {
+  "id": "jordan-031",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما اسم الوادي الذي يشتهر بالرمال الوردية والمغامرات الصحراوية؟",
+  "answer": "وادي رم"
+ },
+ {
+  "id": "jordan-032",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما هو الطعام الوطني للأردن؟",
+  "answer": "المنسف"
+ },
+ {
+  "id": "jordan-033",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما اسم أقدم مدينة مأهولة في العالم والتي تقع قربها عمّان؟",
+  "answer": "جرش (منطقة قريبة من آثار قديمة)"
+ },
+ {
+  "id": "jordan-034",
+  "category": "jordan",
+  "points": 200,
+  "question": "ما اسم الوزارة المسؤولة عن السياحة في الأردن؟",
+  "answer": "وزارة السياحة والآثار"
+ },
+ {
+  "id": "jordan-035",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم الخليج الذي تطل عليه مدينة العقبة؟",
+  "answer": "خليج العقبة"
+ },
+ {
+  "id": "jordan-036",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما هي نسبة ملوحة البحر الميت التي تجعله مميزًا؟",
+  "answer": "من أعلى نسب الملوحة في العالم"
+ },
+ {
+  "id": "jordan-037",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم الملكة الحالية للأردن؟",
+  "answer": "الملكة رانيا العبدالله"
+ },
+ {
+  "id": "jordan-038",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم أول جامعة أردنية تأسست؟",
+  "answer": "الجامعة الأردنية"
+ },
+ {
+  "id": "jordan-039",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم شارع الرينبو الشهير في عمّان؟",
+  "answer": "شارع الرينبو (جبل اللويبدة)"
+ },
+ {
+  "id": "jordan-040",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما هو اسم السلالة الحاكمة في الأردن؟",
+  "answer": "الأسرة الهاشمية"
+ },
+ {
+  "id": "jordan-041",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم أكبر سد مائي في الأردن؟",
+  "answer": "سد الملك طلال"
+ },
+ {
+  "id": "jordan-042",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم المدينة التي تُعرف بعروس الشمال في الأردن؟",
+  "answer": "إربد"
+ },
+ {
+  "id": "jordan-043",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم النشيد الوطني الأردني؟",
+  "answer": "السلام الملكي الأردني"
+ },
+ {
+  "id": "jordan-044",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما هي شجرة تعتبر رمزًا بيئيًا في الأردن؟",
+  "answer": "شجرة البلوط"
+ },
+ {
+  "id": "jordan-045",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم الزهرة الوطنية للأردن؟",
+  "answer": "السوسن الأسود"
+ },
+ {
+  "id": "jordan-046",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم أول بنك تأسس في الأردن؟",
+  "answer": "البنك العربي"
+ },
+ {
+  "id": "jordan-047",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم المنطقة الحرة الاقتصادية الواقعة جنوب الأردن؟",
+  "answer": "منطقة العقبة الاقتصادية الخاصة"
+ },
+ {
+  "id": "jordan-048",
+  "category": "jordan",
+  "points": 400,
+  "question": "كم عدد الجامعات الحكومية في الأردن تقريبًا؟",
+  "answer": "10 جامعات حكومية"
+ },
+ {
+  "id": "jordan-049",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم أكبر مخيم للاجئين في الأردن؟",
+  "answer": "مخيم الزعتري"
+ },
+ {
+  "id": "jordan-050",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم المنطقة الأثرية التي تضم قلعة صليبية في الكرك؟",
+  "answer": "قلعة الكرك"
+ },
+ {
+  "id": "jordan-051",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم الجبل الذي تقع عليه قلعة عجلون؟",
+  "answer": "جبل عوف"
+ },
+ {
+  "id": "jordan-052",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما هو الرقم الدولي لهاتف الأردن؟",
+  "answer": "962+"
+ },
+ {
+  "id": "jordan-053",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم الملك الذي حكم الأردن لأطول فترة؟",
+  "answer": "الملك الحسين بن طلال"
+ },
+ {
+  "id": "jordan-054",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم الاتفاقية التي وقعها الأردن مع إسرائيل عام 1994؟",
+  "answer": "معاهدة وادي عربة"
+ },
+ {
+  "id": "jordan-055",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم النهر الذي يحد الأردن غربًا جزئيًا؟",
+  "answer": "نهر الأردن"
+ },
+ {
+  "id": "jordan-056",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم أكبر محافظة أردنية من حيث المساحة؟",
+  "answer": "محافظة المفرق"
+ },
+ {
+  "id": "jordan-057",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم الطائر الذي يعتبر شعار الدولة الأردنية؟",
+  "answer": "نسر صلاح الدين"
+ },
+ {
+  "id": "jordan-058",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم المنتجع السياحي الشهير على البحر الميت؟",
+  "answer": "منتجعات البحر الميت"
+ },
+ {
+  "id": "jordan-059",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم الجبل الذي يطل على مدينة السلط؟",
+  "answer": "جبل القلعة في السلط"
+ },
+ {
+  "id": "jordan-060",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما هي أقدم مدينة أردنية ما زالت مأهولة؟",
+  "answer": "السلط"
+ },
+ {
+  "id": "jordan-061",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم المتحف الوطني الرئيسي في عمّان؟",
+  "answer": "المتحف الأردني"
+ },
+ {
+  "id": "jordan-062",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما هو موقع الأردن الجغرافي؟",
+  "answer": "جنوب غرب آسيا (بلاد الشام)"
+ },
+ {
+  "id": "jordan-063",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم المدرج الروماني الموجود في وسط عمّان؟",
+  "answer": "المدرج الروماني"
+ },
+ {
+  "id": "jordan-064",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم المحمية التي تشتهر بالمها العربي في الأردن؟",
+  "answer": "محمية الشومري"
+ },
+ {
+  "id": "jordan-065",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم الجسر الذي يربط الأردن بالضفة الغربية؟",
+  "answer": "جسر الملك حسين (جسر اللنبي)"
+ },
+ {
+  "id": "jordan-066",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما هو تاريخ استقلال الأردن؟",
+  "answer": "25 أيار 1946"
+ },
+ {
+  "id": "jordan-067",
+  "category": "jordan",
+  "points": 400,
+  "question": "ما اسم المعاهدة التي أنهت الانتداب البريطاني على شرق الأردن؟",
+  "answer": "معاهدة لندن 1946"
+ },
+ {
+  "id": "jordan-068",
+  "category": "jordan",
+  "points": 600,
+  "question": "من كان رئيس أول حكومة في إمارة شرق الأردن عام 1921؟",
+  "answer": "رشيد طليع"
+ },
+ {
+  "id": "jordan-069",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم المنطقة التي تشتهر بزراعة الزيتون في الأردن؟",
+  "answer": "محافظة عجلون"
+ },
+ {
+  "id": "jordan-070",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم نهر الزرقاء الذي يعد من أهم روافد نهر الأردن؟",
+  "answer": "نهر الزرقاء"
+ },
+ {
+  "id": "jordan-071",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم أكبر قاعدة جوية في الأردن؟",
+  "answer": "قاعدة الملك حسين الجوية"
+ },
+ {
+  "id": "jordan-072",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم الحديقة الوطنية الواقعة في عجلون؟",
+  "answer": "محمية غابة عجلون"
+ },
+ {
+  "id": "jordan-073",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم أول خط سكة حديد أنشئ في الأردن؟",
+  "answer": "سكة حديد الحجاز"
+ },
+ {
+  "id": "jordan-074",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم المنطقة التي بُني فيها خط سكة حديد الحجاز لربط دمشق بالمدينة المنورة؟",
+  "answer": "عبر الأردن"
+ },
+ {
+  "id": "jordan-075",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم الشارع الذي يُعد المركز التجاري القديم في عمّان؟",
+  "answer": "وسط البلد"
+ },
+ {
+  "id": "jordan-076",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم الملكة الأم للملك عبدالله الثاني؟",
+  "answer": "الملكة منى الحسين"
+ },
+ {
+  "id": "jordan-077",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم ولي عهد الأردن الحالي؟",
+  "answer": "الأمير الحسين بن عبدالله الثاني"
+ },
+ {
+  "id": "jordan-078",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم العاصمة الإدارية القديمة للأردن قبل عمّان؟",
+  "answer": "السلط"
+ },
+ {
+  "id": "jordan-079",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم الممر الجبلي الشهير المؤدي إلى البتراء؟",
+  "answer": "السيق"
+ },
+ {
+  "id": "jordan-080",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم المبنى الأثري الأشهر في البتراء؟",
+  "answer": "الخزنة"
+ },
+ {
+  "id": "jordan-081",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم القصر الصحراوي الأموي الشهير في بادية الأردن؟",
+  "answer": "قصر عمرة"
+ },
+ {
+  "id": "jordan-082",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم الموقع المسجل ضمن التراث العالمي لليونسكو في منطقة المغطس؟",
+  "answer": "المغطس (بيت عنيا)"
+ },
+ {
+  "id": "jordan-083",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم الجهة المسؤولة عن إصدار العملة في الأردن؟",
+  "answer": "البنك المركزي الأردني"
+ },
+ {
+  "id": "jordan-084",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم الناقل الجوي الوطني للأردن؟",
+  "answer": "الملكية الأردنية"
+ },
+ {
+  "id": "jordan-085",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم المنطقة الصناعية الحرة الواقعة قرب الزرقاء؟",
+  "answer": "المنطقة الحرة في الزرقاء"
+ },
+ {
+  "id": "jordan-086",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم أكبر محمية بحرية في الأردن؟",
+  "answer": "المحمية البحرية في العقبة"
+ },
+ {
+  "id": "jordan-087",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم الجبل الذي يعد أعلى قمة في الأردن؟",
+  "answer": "جبل أم الدامي"
+ },
+ {
+  "id": "jordan-088",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم الدستور الذي يحكم الأردن والصادر عام 1952؟",
+  "answer": "الدستور الأردني"
+ },
+ {
+  "id": "jordan-089",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم المجلس التشريعي في الأردن المكون من مجلسين؟",
+  "answer": "مجلس الأمة"
+ },
+ {
+  "id": "jordan-090",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم مجلسي البرلمان الأردني؟",
+  "answer": "مجلس النواب ومجلس الأعيان"
+ },
+ {
+  "id": "jordan-091",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم مدينة العقبة قديمًا؟",
+  "answer": "أيلة"
+ },
+ {
+  "id": "jordan-092",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم الاتفاقية الاقتصادية التي أنشأت منطقة التجارة الحرة بين الأردن والولايات المتحدة؟",
+  "answer": "اتفاقية التجارة الحرة الأردنية الأمريكية"
+ },
+ {
+  "id": "jordan-093",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم الصندوق الذي يدير مشاريع التنمية الملكية في الأردن؟",
+  "answer": "الصندوق الهاشمي للتنمية البشرية"
+ },
+ {
+  "id": "jordan-094",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم الكلية العسكرية الملكية في الأردن؟",
+  "answer": "الكلية العسكرية الملكية"
+ },
+ {
+  "id": "jordan-095",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم الجامعة الأردنية الثانية التي تأسست في إربد؟",
+  "answer": "جامعة اليرموك"
+ },
+ {
+  "id": "jordan-096",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم العملة الفرعية الأصغر من القرش في الأردن؟",
+  "answer": "الفلس (عشرة فلوس تعادل القرش الواحد)"
+ },
+ {
+  "id": "jordan-097",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم المدينة الأردنية التي يقع فيها قصر شبيب؟",
+  "answer": "الزرقاء"
+ },
+ {
+  "id": "jordan-098",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم الواحة المعروفة في شرق الأردن؟",
+  "answer": "واحة الأزرق"
+ },
+ {
+  "id": "jordan-099",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما اسم المنطقة الصحراوية الشرقية الواسعة في الأردن؟",
+  "answer": "البادية الشرقية"
+ },
+ {
+  "id": "jordan-100",
+  "category": "jordan",
+  "points": 600,
+  "question": "ما هو شكل العلم الأردني من حيث الألوان الأساسية؟",
+  "answer": "أسود وأبيض وأخضر مع مثلث أحمر ونجمة سباعية بيضاء"
+ },
+ {
+  "id": "jordan_history-001",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "من هو مؤسس المملكة الأردنية الهاشمية؟",
+  "answer": "الملك عبدالله الأول بن الحسين"
+ },
+ {
+  "id": "jordan_history-002",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "في أي عام تأسست إمارة شرق الأردن؟",
+  "answer": "عام 1921"
+ },
+ {
+  "id": "jordan_history-003",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "في أي عام نالت الأردن استقلالها الكامل عن بريطانيا؟",
+  "answer": "عام 1946"
+ },
+ {
+  "id": "jordan_history-004",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "من هو الملك الذي اغتيل في المسجد الأقصى عام 1951؟",
+  "answer": "الملك عبدالله الأول"
+ },
+ {
+  "id": "jordan_history-005",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "من هو الملك الذي حكم الأردن لفترة وجيزة بعد اغتيال الملك عبدالله الأول؟",
+  "answer": "الملك طلال بن عبدالله"
+ },
+ {
+  "id": "jordan_history-006",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "متى تولى الملك الحسين بن طلال العرش؟",
+  "answer": "عام 1952 (رسميًا بعد بلوغه السن القانونية)"
+ },
+ {
+  "id": "jordan_history-007",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "ما اسم المعاهدة التي أنهت الانتداب البريطاني على الأردن عام 1946؟",
+  "answer": "معاهدة لندن"
+ },
+ {
+  "id": "jordan_history-008",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "في أي عام حدثت الوحدة بين الضفتين الشرقية والغربية؟",
+  "answer": "عام 1950"
+ },
+ {
+  "id": "jordan_history-009",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "في أي عام أعلن الأردن فك الارتباط القانوني والإداري مع الضفة الغربية؟",
+  "answer": "عام 1988"
+ },
+ {
+  "id": "jordan_history-010",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "ما اسم الحرب التي شارك فيها الأردن عام 1948؟",
+  "answer": "حرب فلسطين (النكبة)"
+ },
+ {
+  "id": "jordan_history-011",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "ما اسم الحرب التي خسر فيها الأردن الضفة الغربية عام 1967؟",
+  "answer": "حرب حزيران (النكسة)"
+ },
+ {
+  "id": "jordan_history-012",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "في أي عام وقّع الأردن معاهدة السلام مع إسرائيل؟",
+  "answer": "عام 1994"
+ },
+ {
+  "id": "jordan_history-013",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "ما اسم الأحداث المسلحة بين الجيش الأردني والمنظمات الفلسطينية عام 1970؟",
+  "answer": "أيلول الأسود"
+ },
+ {
+  "id": "jordan_history-014",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "من هو الملك الذي حكم الأردن لأطول فترة في تاريخها؟",
+  "answer": "الملك الحسين بن طلال"
+ },
+ {
+  "id": "jordan_history-015",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "في أي عام توفي الملك الحسين بن طلال؟",
+  "answer": "عام 1999"
+ },
+ {
+  "id": "jordan_history-016",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "من هو الملك الذي تولى العرش بعد وفاة الملك الحسين؟",
+  "answer": "الملك عبدالله الثاني"
+ },
+ {
+  "id": "jordan_history-017",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "ما اسم الثورة التي قادها الشريف الحسين بن علي ضد العثمانيين؟",
+  "answer": "الثورة العربية الكبرى"
+ },
+ {
+  "id": "jordan_history-018",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "في أي عام اندلعت الثورة العربية الكبرى؟",
+  "answer": "عام 1916"
+ },
+ {
+  "id": "jordan_history-019",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "من هو والد الملك عبدالله الأول مؤسس الدولة؟",
+  "answer": "الشريف الحسين بن علي"
+ },
+ {
+  "id": "jordan_history-020",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "ما اسم أول عاصمة لإمارة شرق الأردن؟",
+  "answer": "عمّان"
+ },
+ {
+  "id": "jordan_history-021",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "في أي عام أصبح الأردن عضوًا في جامعة الدول العربية؟",
+  "answer": "عام 1945"
+ },
+ {
+  "id": "jordan_history-022",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "في أي عام أصبح الأردن عضوًا في الأمم المتحدة؟",
+  "answer": "عام 1955"
+ },
+ {
+  "id": "jordan_history-023",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "ما اسم الجيش الذي أسسه الأردن وكان له دور بارز تحت قيادة غلوب باشا؟",
+  "answer": "الجيش العربي (الجيش العربي الأردني)"
+ },
+ {
+  "id": "jordan_history-024",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "من هو القائد البريطاني الذي قاد الجيش العربي الأردني لعقود؟",
+  "answer": "جون باغوت غلوب (غلوب باشا)"
+ },
+ {
+  "id": "jordan_history-025",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "في أي عام تم تعريب قيادة الجيش الأردني (إقالة غلوب باشا)؟",
+  "answer": "عام 1956"
+ },
+ {
+  "id": "jordan_history-026",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "ما اسم الدستور الأردني الذي أقر عام 1952؟",
+  "answer": "الدستور الأردني"
+ },
+ {
+  "id": "jordan_history-027",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "ما اسم المؤتمر الذي أعلن فيه قيام إمارة شرق الأردن؟",
+  "answer": "مؤتمر أم قيس"
+ },
+ {
+  "id": "jordan_history-028",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "في أي عام تغير اسم إمارة شرق الأردن إلى المملكة الأردنية الهاشمية؟",
+  "answer": "عام 1946"
+ },
+ {
+  "id": "jordan_history-029",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "من هو الملك الذي وقع معاهدة وادي عربة مع إسرائيل؟",
+  "answer": "الملك الحسين بن طلال"
+ },
+ {
+  "id": "jordan_history-030",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "في أي عام شهدت الأردن محاولة انقلاب عسكري عرفت بالحركة الانقلابية عام 1957؟",
+  "answer": "عام 1957"
+ },
+ {
+  "id": "jordan_history-031",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "ما اسم الفترة التي حكم فيها الأردن تحت الانتداب البريطاني؟",
+  "answer": "1921 - 1946"
+ },
+ {
+  "id": "jordan_history-032",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "ما اسم الاتفاقية التي حددت حدود إمارة شرق الأردن عام 1922؟",
+  "answer": "مذكرة شرق الأردن (فصل شرق الأردن عن فلسطين الانتدابية)"
+ },
+ {
+  "id": "jordan_history-033",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "من هو أول رئيس وزراء لإمارة شرق الأردن؟",
+  "answer": "رشيد طليع"
+ },
+ {
+  "id": "jordan_history-034",
+  "category": "jordan_history",
+  "points": 200,
+  "question": "في أي عام ضمت الأردن الضفة الغربية رسميًا؟",
+  "answer": "عام 1950"
+ },
+ {
+  "id": "jordan_history-035",
+  "category": "jordan_history",
+  "points": 400,
+  "question": "ما اسم المعركة التي وقعت بين القوات الأردنية والبريطانية والعثمانيين في معان خلال الثورة العربية؟",
+  "answer": "معارك الثورة العربية الكبرى في منطقة معان"
+ },
+ {
+  "id": "jordan_history-036",
+  "category": "jordan_history",
+  "points": 400,
+  "question": "من هو الأمير الذي أعلن قيام إمارة شرق الأردن في عمّان عام 1921؟",
+  "answer": "الأمير عبدالله بن الحسين"
+ },
+ {
+  "id": "jordan_history-037",
+  "category": "jordan_history",
+  "points": 400,
+  "question": "ما اسم الملك الذي تنازل عن العرش بسبب المرض عام 1952؟",
+  "answer": "الملك طلال بن عبدالله"
+ },
+ {
+  "id": "jordan_history-038",
+  "category": "jordan_history",
+  "points": 400,
+  "question": "في أي عام شارك الجيش الأردني في معركة باب الواد والقدس خلال حرب 1948؟",
+  "answer": "عام 1948"
+ },
+ {
+  "id": "jordan_history-039",
+  "category": "jordan_history",
+  "points": 400,
+  "question": "ما اسم المعركة الشهيرة التي خاضها الجيش الأردني دفاعًا عن القدس القديمة عام 1948؟",
+  "answer": "معركة القدس"
+ },
+ {
+  "id": "jordan_history-040",
+  "category": "jordan_history",
+  "points": 400,
+  "question": "في أي عام تم توقيع الميثاق الوطني الأردني؟",
+  "answer": "عام 1991"
+ },
+ {
+  "id": "jordan_history-041",
+  "category": "jordan_history",
+  "points": 400,
+  "question": "ما اسم أول انتخابات نيابية أجريت في إمارة شرق الأردن؟",
+  "answer": "انتخابات المجلس التشريعي عام 1929"
+ },
+ {
+  "id": "jordan_history-042",
+  "category": "jordan_history",
+  "points": 400,
+  "question": "ما اسم الحركة الإصلاحية التي شهدها الأردن مطلع التسعينيات؟",
+  "answer": "الميثاق الوطني والتحول الديمقراطي"
+ },
+ {
+  "id": "jordan_history-043",
+  "category": "jordan_history",
+  "points": 400,
+  "question": "في أي عام أقيمت أول انتخابات نيابية في عهد الملك عبدالله الثاني؟",
+  "answer": "عام 2003 (بعد انتخابات سابقة في التسعينيات)"
+ },
+ {
+  "id": "jordan_history-044",
+  "category": "jordan_history",
+  "points": 400,
+  "question": "ما اسم المعاهدة البريطانية الأردنية الموقعة عام 1928؟",
+  "answer": "المعاهدة البريطانية الأردنية لعام 1928"
+ },
+ {
+  "id": "jordan_history-045",
+  "category": "jordan_history",
+  "points": 400,
+  "question": "من هو الملك الذي أصدر دستور عام 1952؟",
+  "answer": "الملك طلال بن عبدالله"
+ },
+ {
+  "id": "jordan_history-046",
+  "category": "jordan_history",
+  "points": 400,
+  "question": "ما اسم الحدث الذي شهد انضمام الأردن إلى حلف بغداد المقترح وإثارة الجدل الشعبي عام 1955؟",
+  "answer": "أزمة حلف بغداد"
+ },
+ {
+  "id": "jordan_history-047",
+  "category": "jordan_history",
+  "points": 400,
+  "question": "في أي عام أعلنت الوحدة الهاشمية بين الأردن والعراق قبل أن تنتهي بثورة 14 تموز؟",
+  "answer": "عام 1958"
+ },
+ {
+  "id": "jordan_history-048",
+  "category": "jordan_history",
+  "points": 400,
+  "question": "ما اسم الثورة التي أطاحت بالنظام الملكي في العراق وأثرت على الاتحاد الهاشمي عام 1958؟",
+  "answer": "ثورة 14 تموز"
+ },
+ {
+  "id": "jordan_history-049",
+  "category": "jordan_history",
+  "points": 400,
+  "question": "من هو أول وزير دفاع أردني بعد تعريب الجيش؟",
+  "answer": "علي أبو نوار"
+ }
+]
